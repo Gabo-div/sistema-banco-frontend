@@ -3,4 +3,7 @@
 @tailwind utilities;
 
 
-body {}
+body {
+  background: #212122;
+  color: aliceblue;
+}
